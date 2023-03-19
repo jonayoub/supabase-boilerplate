@@ -1,1 +1,4 @@
 /* Add screen styles below */
+table, th, td {
+    border: 1px solid;
+  }
